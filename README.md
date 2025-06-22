@@ -1,4 +1,4 @@
-##AI Travel Planner
+## **AI Travel Planner**
 
 AI Travel Planner is a informational mobile applicatio made in React Native using Expo v50 and 
 the React Native Elements UI framework.For internal state management it uses useState hook from React,
@@ -8,7 +8,7 @@ It is also use the Gemini 1.5 model for generating the plan based on the name of
 
 
 
-#Features
+# **Features**
 - Custom UI elements
 - Folder based routing
 - State management
@@ -23,7 +23,7 @@ It is also use the Gemini 1.5 model for generating the plan based on the name of
 - Generate travel plan based on user preferences and AI analysis
 
 
-#Design Patterns
+# **Design Patterns**
 
 - Component-Based Architecture: UI elements are separated into reusable and independent components for better application functionality.
 - Singleton: for user authentication with Firebase and generate plan with AI model
